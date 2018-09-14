@@ -38,10 +38,12 @@
     "formidable": "^1.2.1",
     "fs": "^0.0.1-security",
     "helmet": "^3.13.0",
+    "if-env": "^1.0.4",
     "jsonwebtoken": "^8.3.0",
     "lodash": "^4.17.10",
     "mdbreact": "git+https://oauth2:L784vkqaXc1PkBiREZaW@git.mdbootstrap.com/mdb/react/re-pro.git",
     "moment": "^2.22.2",
+    "mongodb": "^3.1.5",
     "mongoose": "^5.2.10",
     "morgan": "^1.9.0",
     "passport-google-oauth": "^1.0.0",
@@ -49,7 +51,6 @@
     "react-dropzone": "^5.0.1",
     "react-router-dom": "^4.4.0-alpha.1",
     "socket.io": "^2.1.1",
-    "socket.io-client": "^2.1.1",
-    "if-env": "^1.0.4"
-    }
+    "socket.io-client": "^2.1.1"
+  }
 }
